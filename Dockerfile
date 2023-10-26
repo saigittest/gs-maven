@@ -1,3 +1,4 @@
 FROM JDK
 COPY .
-
+ADD
+EXPOSE
